@@ -10,4 +10,8 @@ class App < Sinatra::Base
     "Hello Kitty!"
   end 
   
+  get '/lollipop' do 
+    "I like icecream!"
+  end 
+  
 end
