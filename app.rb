@@ -12,6 +12,7 @@ class App < Sinatra::Base
   
   get '/lollipop' do 
     "I like icecream!"
+    "I like pizza!"
   end 
   
 end
